@@ -7,3 +7,4 @@ https://github.com/arinaautumn/HW9/blob/master/Screen%20Shot%202018-06-01%20at%2
 https://github.com/arinaautumn/HW9/blob/master/Screen%20Shot%202018-06-01%20at%2000.01.28.png
 
 Чтобы узнать количество упоминаний Новгорода, использовала выражение [Н][а-я]*(город). Всего получилось 33
+https://github.com/arinaautumn/HW9/blob/master/Screen%20Shot%202018-06-01%20at%2000.01.48.png
